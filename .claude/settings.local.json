@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(mkdir:*)",
+      "WebFetch(domain:crochet-plants.netlify.app)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
