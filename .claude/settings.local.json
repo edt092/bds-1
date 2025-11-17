@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npm install:*)",
       "Bash(mkdir:*)",
-      "WebFetch(domain:crochet-plants.netlify.app)"
+      "WebFetch(domain:crochet-plants.netlify.app)",
+      "Bash(npm run dev:*)"
     ],
     "deny": [],
     "ask": []
