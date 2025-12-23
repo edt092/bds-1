@@ -4,7 +4,15 @@
       "Bash(npm install:*)",
       "Bash(mkdir:*)",
       "WebFetch(domain:crochet-plants.netlify.app)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(gh repo view:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:tienda-mugs.netlify.app)",
+      "WebFetch(domain:mindset-mugs.netlify.app)",
+      "WebFetch(domain:ksp-tienda.netlify.app)",
+      "WebFetch(domain:ksp-tienda.vercel.app)",
+      "Bash(npm run build:*)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,11 @@
+# BDS - Bayona Digital Systems
+# https://bayonadigitalsystems.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://bayonadigitalsystems.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
